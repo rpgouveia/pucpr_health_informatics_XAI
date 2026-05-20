@@ -6,7 +6,7 @@ Um projeto educacional sobre **Inteligência Artificial Explicável** aplicada a
 
 Este projeto demonstra a importância da interpretabilidade em modelos de aprendizado de máquina, particularmente no contexto da saúde, onde decisões precisam ser compreendidas e justificadas.
 
-Usando o dataset clássico de **Câncer de Mama (UCI Breast Cancer)**, o projeto compara:
+Usando o dataset clássico de **Câncer de Mama [Breast Cancer Wisconsin (Diagnostic)]**, o projeto compara:
 
 1. **Modelos Interpretáveis** (Árvore de Decisão) - fáceis de entender, mas com performance moderada
 2. **Modelos Black-Box** (Redes Neurais) - melhor performance, mas pouco transparentes
@@ -16,7 +16,7 @@ Usando o dataset clássico de **Câncer de Mama (UCI Breast Cancer)**, o projeto
 
 - Compreender a diferença entre modelos interpretáveis e black-box
 - Explorar técnicas de explicabilidade (SHAP, LIME)
-- Aplicar conceitos de xAI em um contexto de saúde
+- Aplicar conceitos de XAI em um contexto de saúde
 - Demonstrar por que a interpretabilidade é crítica em domínios sensíveis
 
 ## Estrutura do Projeto
@@ -55,7 +55,7 @@ Explora um modelo **neural de alta performance, mas pouco interpretável**:
 - Avaliação de desempenho
 - Demonstração de por que "abrir a caixa-preta" é desafiador
 
-**Principais conceitos:** Modelos complexos, limitações de interpretabilidade, importância de xAI
+**Principais conceitos:** Modelos complexos, limitações de interpretabilidade, importância de XAI
 
 ---
 
@@ -157,7 +157,7 @@ jupyter lab
 
 - **Interpretabilidade:** Capacidade de entender por que um modelo faz uma previsão
 - **Transparência:** Clareza sobre o funcionamento interno do modelo
-- **xAI (Explainable AI):** Disciplina que visa tornar modelos de IA mais compreensíveis
+- **XAI (Explainable AI):** Disciplina que visa tornar modelos de IA mais compreensíveis
 - **SHAP:** Usa teoria dos jogos para atribuir importância a features
 - **LIME:** Aproxima modelos complexos localmente com modelos simples
 - **Black-Box:** Modelos cuja lógica interna não é facilmente interpretável
@@ -170,7 +170,7 @@ Em aplicações médicas, a interpretabilidade é **fundamental**:
 - Confiança do paciente depende de transparência
 - Erros podem ter impacto severo
 
-Este projeto ilustra como técnicas de xAI tornam modelos adequados para contextos sensíveis.
+Este projeto ilustra como técnicas de XAI tornam modelos adequados para contextos sensíveis.
 
 ## Referências
 
@@ -190,4 +190,4 @@ Este projeto é fornecido sob a licença especificada em [LICENSE](LICENSE).
 
 ---
 
-**Nota:** Este é um projeto educacional. Use para aprender, pesquisar e compreender xAI. Para aplicações médicas reais, sempre consulte especialistas e siga regulamentações vigentes.
+**Nota:** Este é um projeto educacional. Use para aprender, pesquisar e compreender XAI. Para aplicações médicas reais, sempre consulte especialistas e siga regulamentações vigentes.
